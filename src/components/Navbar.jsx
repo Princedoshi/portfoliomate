@@ -7,7 +7,7 @@ const Navbar = () => {
     profileImage: 'image.jpg',
   };
   return (
-    <div className="text-green-500 w-5/6 ml-auto">
+    <div className="text-gray-500 w-5/6 ml-auto">
       <div className="bg-gray-200 p-4 flex justify-between items-center">
         <h1 className="text-xl font-bold">Stakeholder Management</h1>
         <div className="flex items-center">
